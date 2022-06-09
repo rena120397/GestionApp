@@ -19,8 +19,5 @@ namespace WebAPI.Controllers
         public WeatherForecastController(Context _context){
             this.context = _context;
         }
-
-
-
     }
 }
