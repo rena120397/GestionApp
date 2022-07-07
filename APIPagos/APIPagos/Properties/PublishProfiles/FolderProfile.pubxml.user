@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PUBLICAR</_PublishTargetUrl>
+    <History>True|2022-07-07T12:40:22.1345451Z;True|2022-07-07T07:24:16.9295276-05:00;True|2022-07-07T02:39:59.2149538-05:00;True|2022-07-07T02:10:44.2685937-05:00;True|2022-07-07T00:47:30.9143242-05:00;True|2022-07-07T00:11:11.4151210-05:00;True|2022-07-07T00:09:38.9264960-05:00;True|2022-07-07T00:09:15.2749999-05:00;True|2022-07-06T23:58:39.4360434-05:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=localhost\sqlexpress%3b Initial Catalog=Gestion%3b User Id=sa%3bPassword=root%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Persistencia.PagosOnlineContext">
+      <Value>Data Source=localhost\sqlexpress%3b Initial Catalog=Gestion%3b User Id=sa%3bPassword=root%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

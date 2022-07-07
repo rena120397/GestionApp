@@ -1,0 +1,32 @@
+D:\Proyecto_UTP\APIPagos\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+D:\Proyecto_UTP\APIPagos\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\Proyecto_UTP\APIPagos\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\Proyecto_UTP\APIPagos\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Proyecto_UTP\APIPagos\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+D:\Proyecto_UTP\APIPagos\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+D:\Proyecto_UTP\APIPagos\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+D:\Proyecto_UTP\APIPagos\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.deps.json
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.dll
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.pdb
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.dll
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.AssemblyReference.cache
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CopyComplete
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.dll
+D:\GIT PROYECTO_UTP\ApiPagosUTP\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.pdb
